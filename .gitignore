@@ -26,3 +26,5 @@ node_modules/
 
 assets/Ab_video_ship.mp4
 *.mp4
+
+.env.local
