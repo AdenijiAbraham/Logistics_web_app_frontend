@@ -5,7 +5,7 @@ import HeroTwo from './components/HeroTwo';
 import SjSoftechLogo from './components/SjSoftechLogo';
 import Services from './components/Services';
 import AbouUs from './components/AbouUs';
-import Contact from './components/contact';
+import Contact from './components/Contact';
 import MissionVission from './components/MissionVission';
 import Blog from './components/Blog';
 import Footer from './components/Footer';
