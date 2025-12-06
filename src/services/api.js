@@ -3,7 +3,8 @@ import axios from 'axios';
 
 // Create axios instance
 const API = axios.create({
-  baseURL: 'http://localhost:5001/api',
+  baseURL: 'https://logistics-web-app-backend.vercel.app',
+            
   headers: {
     'Content-Type': 'application/json',
   },
