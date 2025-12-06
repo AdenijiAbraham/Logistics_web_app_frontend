@@ -1,5 +1,5 @@
 import "../CSS/airfreight.css";
-import Ab_video_ship from "../../assets/Ab_video_ship.mp4";
+//import Ab_video_ship from "../../assets/Ab_video_ship.mp4";
 import {Link} from 'react-router-dom'
 const CargoMarine = () => {
   return (
