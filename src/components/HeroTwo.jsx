@@ -1,7 +1,7 @@
 //AOS typically stands for "Animate On Scroll" - a popular JavaScript library 
 // that animates elements as you scroll down a webpage.
 import AOS from "aos";
-import Ab_video_ship from'../../assets/Ab_video_ship.mp4'
+//import Ab_video_ship from'../../assets/Ab_video_ship.mp4'
 import { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../contexts/AuthContext";

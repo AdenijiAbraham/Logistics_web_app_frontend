@@ -1,7 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css"; // Bootstrap CSS
 import "bootstrap/dist/js/bootstrap.bundle.min"; // Bootstrap JS (for modals, dropdowns, etc.)
 
-import contact  from "./Contact.jsx"
+import Contact  from "./Contact.jsx"
 import { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import BrandLogo from "./BrandLogo";
